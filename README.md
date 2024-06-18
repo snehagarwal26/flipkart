@@ -1,2 +1,2 @@
 # flipkart
-python
+html css javascript
